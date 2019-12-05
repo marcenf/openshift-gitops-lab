@@ -3,6 +3,6 @@
   version: master
 
 # The git repository for this project
-- src: https://github.com/YOUR_GITHUB_ACCOUNT/openshift-gitops-lab.git
+- src: https://github.com/marcenf/openshift-gitops-lab.git
   name: self
   version: master
